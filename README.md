@@ -4,6 +4,12 @@ Simulador educativo e interactivo desarrollado en **Unity** y publicado en **Web
 
 La aplicación está dividida en **dos partes independientes**: una calculadora de subredes a la izquierda y un simulador visual de una red LAN a la derecha. Permiten relacionar la teoría con una representación práctica de los dispositivos conectados.
 
+## Probar el simulador online
+
+🎮 **[Abrir simulador de redes IPv4 (Unity WebGL)](https://jesuskey787-hash.github.io/simulador-redes-ipv4/)**
+
+Puedes probarlo directamente desde el navegador, sin instalar ningún programa.
+
 ## 1. Calculadora de subredes IPv4 (lado izquierdo)
 
 Permite modificar el **prefijo CIDR** mediante un control deslizante y ver cómo cambian automáticamente los datos de una subred:
